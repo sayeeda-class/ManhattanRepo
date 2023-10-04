@@ -1,1 +1,3 @@
-class Employee{}
+class Employee{
+void display(){}
+}
